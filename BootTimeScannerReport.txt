@@ -1,0 +1,19 @@
+
+Report For - Boot Time Scanner
+Monday, 30 July, 2018, Time 13:05:20
+Seqrite Endpoint Security Version - 17.00
+Virus database - 28 July 2018
+
+---------------------------------------------------------
+Scan mode - Full System Scan
+---------------------------------------------------------
+
+Scanning Completed.
+
+---------------------------------------------------------
+Total Files Scanned : 1718796
+Total Virus Found   : 0
+Total Virus Repaired: 0
+Total Files Deleted : 0
+Total Files Skipped : 0
+Total I/O Errors    : 0
